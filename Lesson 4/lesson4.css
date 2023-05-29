@@ -1,0 +1,52 @@
+button{
+    cursor: pointer;
+}
+.back{
+    margin-right: 8px;
+    padding: 6px;
+}
+.next{
+    margin-left: 8px;
+    padding: 6px
+}
+a{
+    margin: 4px;
+}
+div{
+    margin-bottom: 20px;
+}
+.stretch{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 6px 10px 6px 10px;
+    transition: padding 1s;
+}
+.stretch:hover{
+    padding: 18px 30px 18px 30px;
+}
+.shadow{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 6px 10px 6px 10px;
+    box-shadow: 3px 3px 5px black;
+    transition: margin 0.15s, box-shadow 0.15s;
+}
+.shadow:active{
+    margin-top: 3px;
+    margin-left: 3px;
+    box-shadow: 0 0 0 black;
+}
+.counter{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 6px 10px 6px 10px;
+    margin: 0 8px 0 8px;
+    transition: margin 0.15s, padding 0.15s;
+}
+.counter:hover{
+    padding: 6px 18px 6px 18px;
+    margin: 0;
+}
