@@ -8,6 +8,7 @@
     border: rgba(255, 255, 255, 0.88) solid 1px;
     border-radius: 16px;
     color: white;
+    display: block;
 }
 .search-bar:active{
     border-color: blue;

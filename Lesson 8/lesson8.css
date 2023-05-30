@@ -1,0 +1,63 @@
+.lesson8a-name{
+    display: block;
+}
+.lesson8a-email{
+    display: block;
+    margin-top: 6px;
+}
+.lesson8bp{
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+.google-logo{
+    display: block;
+    width: 260px;
+    margin-left: 200px;
+    margin-bottom: 0;
+}
+.lesson7e{
+    margin-top: 0;
+}
+
+.lesson8d-first-name, .lesson8d-last-name, .lesson8d-email{
+    font-family: Arial, serif;
+    padding: 8px 12px 8px 12px;
+    border: lightgrey solid;
+    border-radius: 12px;
+    height: 44px;
+    font-size: 24px;
+}
+.lesson8d-email{
+    height: 44px;
+    width: 642px;
+    display: block;
+    margin-top: 16px;
+}
+.lesson8d-first-name, .lesson8d-last-name{
+    width: 300px;
+    margin-top: 60px;
+}
+.lesson8d-last-name{
+    margin-left: 8px;
+}
+.lesson8d-sign{
+    font-size: 24px;
+    font-family: Arial, serif;
+    width: 670px;
+    padding: 8px 12px 8px 12px;
+    height: 50px;
+    background-color: #1983fd;
+    color: white;
+    border: #1983fd solid;
+    border-radius: 12px;
+    margin-top: 16px;
+    cursor: pointer;
+    transition: box-shadow 0.15s, opacity 0.15s;
+}
+.lesson8d-sign:hover{
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.lesson8d-sign:active{
+    opacity: 0.6;
+}
