@@ -1,0 +1,117 @@
+img{
+    width: 400px;
+    margin: 20px;
+}
+.gamescom-border{
+    border-radius: 10px;
+}
+.gamescom-square{
+    width: 225px;
+    height: 225px;
+    object-position: center;
+    object-fit: cover;
+}
+.gamescom-circle{
+    width: 225px;
+    height: 225px;
+    object-position: center;
+    object-fit: cover;
+    border-radius: 200px;
+}
+.lesson7d{
+    margin: 20px;
+    border: grey solid 1px;
+    font-size: 32px;
+    font-family: Arial, serif;
+    border-radius: 12px;
+    padding: 16px 22px 16px 22px;
+    width: 400px;
+}
+.lesson7e{
+    margin: 20px;
+    width: 600px;
+    border: none;
+    font-size: 28px;
+    font-family: Arial, serif;
+    padding: 18px 22px 18px 28px;
+    border-radius: 36px;
+    box-shadow: 0 0 10px black;
+}
+p{
+    font-family: Arial, serif;
+    font-size: 20px;
+    color: #505050;
+    margin-bottom: 0;
+}
+.lesson7f{
+    margin-top: 6px;
+    font-size: 18px;
+    padding: 12px;
+    font-family: Arial, serif;
+    width: 452px;
+    border: #505050 solid 2px;
+    border-radius: 6px;
+    margin-bottom: 14px;
+}
+.lesson7agree{
+    margin-top: 20px;
+    font-size: 28px;
+    font-family: Arial, serif;
+    color: white;
+    background-color: #0f5bb7;
+    text-align: center;
+    padding: 18px 158px 18px 158px;
+    border: #0f5bb7 solid;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: opacity 0.15s, box-shadow 0.15s;
+}
+.lesson7agree:hover{
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    opacity: 0.8;
+}
+.lesson7agree:active{
+    opacity: 0.5;
+}
+.gamescom-circle2{
+    width: 68px;
+    height: 68px;
+    object-position: center;
+    object-fit: cover;
+    border-radius: 200px;
+    vertical-align: middle;
+}
+.lesson7g{
+    vertical-align: middle;
+    height: 48px;
+    width: 260px;
+    border: none;
+    font-family: Arial, serif;
+    font-size: 18px;
+    border-radius: 100px;
+    padding: 8px;
+    margin-left: 0;
+}
+.lesson7tweet{
+    margin-right: 0;
+    background-color: #1983fd;
+    vertical-align: middle;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-style: solid;
+    border-color: #1983fd;
+    border-radius: 60px;
+    border-width: 1px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    transition: box-shadow 0.10s, background-color 0.1s, color 0.1s, border-color 0.1s;
+}
+.lesson7tweet:hover{
+    box-shadow: 2px 2px 10px rgba(0,0,0,.5);
+}
+.lesson7tweet:active{
+    background-color: white;
+    color: #1983fd;
+    border-color: white;
+}

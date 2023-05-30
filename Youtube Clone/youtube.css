@@ -1,0 +1,14 @@
+.thumbnail{
+    width: 300px;
+}
+.search-bar{
+    width: 500px;
+    padding: 8px 12px 8px 12px;
+    background-color: black;
+    border: rgba(255, 255, 255, 0.88) solid 1px;
+    border-radius: 16px;
+    color: white;
+}
+.search-bar:active{
+    border-color: blue;
+}
