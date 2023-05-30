@@ -1,0 +1,106 @@
+
+.lesson10a-inline{
+    display: inline-block;
+}
+.lesson10a-profile{
+    width: 76px;
+    height: 76px;
+    border-radius: 62px;
+    object-fit: contain;
+    object-position: center;
+    margin-right: 22px;
+}
+.lesson10a-name{
+    font-weight: bold;
+    font-family: Arial, serif;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+.lesson10a-description{
+    margin-top: 6px;
+    color: rgba(0,0,0,0.3);
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial, serif;
+    margin-bottom: 0;
+}
+.lesson10a-popular{
+    margin-top: 6px;
+    color: rgba(0,0,0,0.3);
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial, serif;
+}
+.lesson10a-button{
+    font-family: Arial, serif;
+    background-color: #1983fd;
+    color: white;
+    padding: 8px 12px 8px 12px;
+    font-size: 16px;
+    border: #1983fd solid;
+    border-radius: 8px;
+    font-weight: bold;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.lesson10a-div-profile{
+    vertical-align: middle;
+}
+.lesson10a-div-p{
+    vertical-align: middle;
+    width: 200px;
+}
+.lesson10a-div-button{
+    vertical-align: middle;
+}
+
+.lesson10b-dark{
+    background-color: rgb(18, 18, 18);
+    padding: 40px;
+}
+.lesson10b-div-p{
+    vertical-align: top;
+    width: 660px;
+    margin-left: 12px;
+}
+.lesson10b-thumbnail{
+    border-radius: 6px;
+}
+.lesson10b-title, .lesson10b-stats, .lesson10b-author, .lesson10b-description{
+    color: white;
+    font-family: Roboto, Arial, serif;
+    margin-bottom: 0;
+}
+.lesson10b-stats, .lesson10b-author, .lesson10b-description{
+    color: rgb(170,170,170);
+}
+.lesson10b-title{
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: 500;
+}
+.lesson10b-stats{
+    font-size: 12px;
+    margin-top: 2px;
+}
+.lesson10b-icon{
+    width: 24px;
+    border-radius: 100px;
+    vertical-align: middle;
+}
+.lesson10b-author{
+    margin-top: 0;
+    vertical-align: middle;
+    font-size: 12px;
+    margin-bottom: 0;
+}
+.lesson10b-div-author{
+    margin-top: 16px;
+}
+.lesson10b-description{
+    font-size: 12px;
+    margin-top: 18px;
+}
+.lesson10b-videos{
+    margin:16px;
+}

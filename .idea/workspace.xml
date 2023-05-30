@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5329e7a0-f9a3-425c-bd7b-354e913dbc89" name="Changes" comment="Lesson 8">
-      <change afterPath="$PROJECT_DIR$/Lesson 9/cat1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 9/cat2.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 9/cat3.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 9/lesson9.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 9/lesson9.html" afterDir="false" />
+    <list default="true" id="5329e7a0-f9a3-425c-bd7b-354e913dbc89" name="Changes" comment="Lesson 9">
+      <change afterPath="$PROJECT_DIR$/Lesson 10/Icons/icons-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/Icons/icons-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/Icons/icons-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/Thumbnails/thumbnail-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/Thumbnails/thumbnail-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/Thumbnails/thumbnail-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/lesson10.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/lesson10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/profile-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/profile-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/profile-5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Youtube Clone/youtube.css" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube Clone/youtube.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Youtube Clone/youtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube Clone/youtube.html" afterDir="false" />
@@ -22,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,23 +44,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyCourseProgress",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyCourseProgress&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Youtube Clone" />
@@ -62,6 +68,32 @@
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 4" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 1 - 3" />
     </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.lesson9.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyCourseProgress/Lesson 1 - 3/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyCourseProgress/Lesson 4/lesson4.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyCourseProgress/Lesson 5/lesson5.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson8.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyCourseProgress/Lesson 8/lesson8.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson9.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyCourseProgress/Lesson 9/lesson9.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.lesson9.html" />
+        <item itemvalue="JavaScript Debug.lesson8.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.lesson4.html" />
+        <item itemvalue="JavaScript Debug.lesson5.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,7 +110,8 @@
       <workItem from="1685363925709" duration="12883000" />
       <workItem from="1685383762739" duration="2530000" />
       <workItem from="1685398537508" duration="7414000" />
-      <workItem from="1685455653795" duration="7681000" />
+      <workItem from="1685455653795" duration="11599000" />
+      <workItem from="1685474698072" duration="5963000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 4">
       <created>1685369308207</created>
@@ -129,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685461714850</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lesson 9">
+      <created>1685466819529</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685466819529</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +182,7 @@
     <MESSAGE value="Lesson 6" />
     <MESSAGE value="Lesson 7" />
     <MESSAGE value="Lesson 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 8" />
+    <MESSAGE value="Lesson 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 9" />
   </component>
 </project>

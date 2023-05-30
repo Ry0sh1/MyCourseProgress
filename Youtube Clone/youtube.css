@@ -1,10 +1,10 @@
-.thumbnail{
-    width: 300px;
+body{
+    background-color: rgb(18, 18, 18);
 }
 .search-bar{
     width: 500px;
     padding: 8px 12px 8px 12px;
-    background-color: black;
+    background-color: rgb(18, 18, 18);
     border: rgba(255, 255, 255, 0.88) solid 1px;
     border-radius: 16px;
     color: white;
@@ -12,4 +12,54 @@
 }
 .search-bar:active{
     border-color: blue;
+}
+p{
+    font-family: Roboto, Arial, serif;
+}
+.thumbnail{
+    width: 360px;
+    border-radius: 12px;
+    margin-bottom: 8px;
+}
+.youtube-video-preview{
+    display: inline-block;
+    width: 360px;
+    vertical-align: top;
+    margin: 20px;
+}
+.youtube-video-div-profile{
+    display: inline-block;
+    width: 36px;
+    vertical-align: top;
+    margin-right: 6px;
+}
+.youtube-video-div-info{
+    display: inline-block;
+    width: 314px;
+    vertical-align: top;
+}
+.youtube-video-profile{
+    width: 100%;
+    border-radius: 36px;
+    margin: 0;
+    vertical-align: bottom;
+}
+.youtube-video-title{
+    margin-top: 0;
+    line-height: 22px;
+    font-size: 16px;
+    margin-bottom: 6px;
+    font-weight: 500;
+    color: white;
+}
+.youtube-video-stats, .youtube-video-author{
+    font-size: 14px;
+    color: rgb(170, 170, 170);
+}
+.youtube-video-author{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.youtube-video-stats{
+    margin-top: 0;
 }
