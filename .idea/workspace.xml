@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5329e7a0-f9a3-425c-bd7b-354e913dbc89" name="Changes" comment="Lesson 9">
-      <change afterPath="$PROJECT_DIR$/Lesson 10/Icons/icons-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 10/Icons/icons-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 10/Icons/icons-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 10/Thumbnails/thumbnail-1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 10/Thumbnails/thumbnail-2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 10/Thumbnails/thumbnail-3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 10/lesson10.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 10/lesson10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/profile-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/profile-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/profile-5.jpg" afterDir="false" />
+    <list default="true" id="5329e7a0-f9a3-425c-bd7b-354e913dbc89" name="Changes" comment="Lesson 10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Youtube Clone/youtube.css" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube Clone/youtube.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Youtube Clone/youtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube Clone/youtube.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +98,7 @@
       <workItem from="1685383762739" duration="2530000" />
       <workItem from="1685398537508" duration="7414000" />
       <workItem from="1685455653795" duration="11599000" />
-      <workItem from="1685474698072" duration="5963000" />
+      <workItem from="1685474698072" duration="7101000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 4">
       <created>1685369308207</created>
@@ -169,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685466819529</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lesson 10">
+      <created>1685480977803</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685480977803</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +177,7 @@
     <MESSAGE value="Lesson 7" />
     <MESSAGE value="Lesson 8" />
     <MESSAGE value="Lesson 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 9" />
+    <MESSAGE value="Lesson 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 10" />
   </component>
 </project>
