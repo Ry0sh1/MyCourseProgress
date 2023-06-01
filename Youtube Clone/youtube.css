@@ -16,30 +16,23 @@ body{
 p{
     font-family: Roboto, Arial, serif;
 }
+.youtube-video-videos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 16px;
+    row-gap: 40px;
+}
 .thumbnail{
-    width: 360px;
+    width: 100%;
     border-radius: 12px;
     margin-bottom: 8px;
 }
-.youtube-video-preview{
-    display: inline-block;
-    width: 360px;
-    vertical-align: top;
-    margin: 20px;
-}
-.youtube-video-div-profile{
-    display: inline-block;
-    width: 36px;
-    vertical-align: top;
-    margin-right: 6px;
-}
-.youtube-video-div-info{
-    display: inline-block;
-    width: 314px;
-    vertical-align: top;
+.youtube-video-grid{
+    display: grid;
+    grid-template-columns: 42px 1fr;
 }
 .youtube-video-profile{
-    width: 100%;
+    width: 36px;
     border-radius: 36px;
     margin: 0;
     vertical-align: bottom;

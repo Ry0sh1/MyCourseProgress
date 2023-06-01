@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5329e7a0-f9a3-425c-bd7b-354e913dbc89" name="Changes" comment="Lesson 10">
+      <change afterPath="$PROJECT_DIR$/Lesson 11/cat1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 11/cat2.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 11/cat3.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 11/lesson11.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 11/lesson11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/profile-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/profile-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/profile-7.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/youtube.css" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube Clone/youtube.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/youtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube Clone/youtube.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -31,24 +41,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyCourseProgress&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyCourseProgress/Lesson 11",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 11" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Youtube Clone" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 7\Thumbnails" />
@@ -56,7 +69,7 @@
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 1 - 3" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.lesson9.html">
+  <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyCourseProgress/Lesson 1 - 3/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -99,6 +112,7 @@
       <workItem from="1685398537508" duration="7414000" />
       <workItem from="1685455653795" duration="11599000" />
       <workItem from="1685474698072" duration="7101000" />
+      <workItem from="1685623221263" duration="5005000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 4">
       <created>1685369308207</created>
