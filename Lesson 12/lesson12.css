@@ -1,0 +1,123 @@
+.lesson12a{
+    margin-top: 60px;
+    display: flex;
+    margin-top: 60px;
+}
+.lesson12a-left{
+    background-color: lightblue;
+    width: 200px;
+}
+.lesson12a-right{
+    background-color: lightpink;
+    width: 75px;
+}
+
+.lesson12b{
+    margin-top: 60px;
+    display: flex;
+    margin-top: 60px;
+}
+.lesson12b-left{
+    background-color: lightblue;
+    width: 50px;
+}
+.lesson12b-center{
+    background-color: lightpink;
+    flex: 1;
+}
+.lesson12b-right{
+    background-color: lightblue;
+    width: 75px;
+}
+.lesson12c{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.lesson12c-item{
+    background-color: lightpink;
+    width: 50px;
+}
+.lesson12d{
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-between;
+    align-items: center;
+    border: grey solid 1px;
+    height: 50px;
+}
+.lesson12d-item{
+    background-color: lightpink;
+}
+
+.lesson12e{
+    margin-top: 40px;
+    border-radius: 16px;
+    border: #a6a6a6 solid 1px;
+    width: 400px;
+}
+.lesson12e-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 20px;
+    height: 40px;
+}
+p {
+    font-family: Arial, serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+.lesson12e-not{
+    color: white;
+    background-color: #1947fd;
+    padding: 4px 10px 4px 10px;
+    border-radius: 16px;
+    margin-right: 20px;
+    font-family: Arial, serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+.lesson12f{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #854daf;
+    height: 60px;
+    margin-top: 80px;
+}
+.lesson12f-home{
+    color: white;
+    font-family: Arial, serif;
+    font-size: 18px;
+    font-weight: bold;
+    width: 100px;
+    margin: 20px 0 20px 12px;
+    text-decoration: none;
+}
+.lesson12f-search{
+    width: 460px;
+    background-color: white;
+    border: #854daf solid 1px;
+    border-radius: 46px;
+    padding: 6px 14px 6px 14px;
+    height: 26px;
+    font-family: Arial, serif;
+    font-size: 16px;
+}
+.lesson12f-download{
+    border: white solid 2px ;
+    border-radius: 4px;
+    background-color: #854daf;
+    color: white;
+    font-family: Arial, serif;
+    margin-right: 12px;
+    font-size: 18px;
+    padding: 10px 16px 10px 16px;
+    cursor: pointer;
+}
+.lesson12f-download:active{
+    background-color:white;
+    border-color:#854daf ;
+    color: #854daf;
+}

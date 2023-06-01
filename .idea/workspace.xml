@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5329e7a0-f9a3-425c-bd7b-354e913dbc89" name="Changes" comment="Lesson 10">
-      <change afterPath="$PROJECT_DIR$/Lesson 11/cat1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 11/cat2.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 11/cat3.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 11/lesson11.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 11/lesson11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/profile-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/profile-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/profile-7.jpg" afterDir="false" />
+    <list default="true" id="5329e7a0-f9a3-425c-bd7b-354e913dbc89" name="Changes" comment="Lesson 11">
+      <change afterPath="$PROJECT_DIR$/Lesson 12/lesson12.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12/lesson12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12/my-profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/my-profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/general.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Youtube Clone/youtube.css" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube Clone/youtube.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/youtube.css" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube Clone/video.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Youtube Clone/youtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube Clone/youtube.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +46,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyCourseProgress/Lesson 11",
+    "last_opened_file_path": "D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyCourseProgress/Lesson 12",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -60,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 12" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -112,7 +111,7 @@
       <workItem from="1685398537508" duration="7414000" />
       <workItem from="1685455653795" duration="11599000" />
       <workItem from="1685474698072" duration="7101000" />
-      <workItem from="1685623221263" duration="5005000" />
+      <workItem from="1685623221263" duration="15685000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 4">
       <created>1685369308207</created>
@@ -177,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685480977803</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lesson 11">
+      <created>1685630024580</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685630024580</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +198,7 @@
     <MESSAGE value="Lesson 8" />
     <MESSAGE value="Lesson 9" />
     <MESSAGE value="Lesson 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 10" />
+    <MESSAGE value="Lesson 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 11" />
   </component>
 </project>

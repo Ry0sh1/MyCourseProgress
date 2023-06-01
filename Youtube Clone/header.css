@@ -1,0 +1,36 @@
+.search-bar{
+    width: 100%;
+    padding: 8px 12px 8px 12px;
+    background-color: rgb(18, 18, 18);
+    border: hsl(0, 0%, 18.82%) solid 1px;
+    border-radius: 16px;
+    color: white;
+}
+.search-bar:active{
+    border-color: blue;
+}
+.youtube-header{
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.youtube-header-left{
+    background-color: green;
+    width: 200px;
+}
+.youtube-header-center{
+    margin-left: 50px;
+    display: flex;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    max-width: 500px;
+    margin-right: 50px;
+}
+.youtube-header-right{
+    background-color: blue;
+    width: 200px;
+}
