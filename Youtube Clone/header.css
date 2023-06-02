@@ -43,6 +43,12 @@
     align-items: center;
     justify-content: space-between;
     margin-bottom: 16px;
+    position: fixed;
+    background-color: white;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-bottom: #c2c2c2 solid 1px;
 }
 .youtube-header-left{
     display: flex;
@@ -66,12 +72,12 @@
     gap: 30px;
 }
 .youtube-hamburger{
-    margin-left: 30px;
-    width: 32px;
-    height: 32px;
+    margin-left: 28px;
+    width: 26px;
+    height: 26px;
 }
 .youtube-youtube-icon{
-    height: 36px;
+    height: 28px;
     margin-left: 30px;
 }
 .youtube-video-icon{

@@ -4,15 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5329e7a0-f9a3-425c-bd7b-354e913dbc89" name="Changes" comment="YouTube project search bar">
-      <change afterPath="$PROJECT_DIR$/Lesson 13/cat1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 13/cat2.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 13/cat3.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 13/lesson13.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 13/lesson13.html" afterDir="false" />
+    <list default="true" id="5329e7a0-f9a3-425c-bd7b-354e913dbc89" name="Changes" comment="Lesson 13">
+      <change afterPath="$PROJECT_DIR$/Lesson 14/lesson14.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 14/lesson14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 14/lesson14a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 14/lesson14b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 14/lesson14d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Header/hamburger-menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Header/notifications.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Header/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Header/upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Header/voice-search-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Header/youtube-apps.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Header/youtube-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Sidebar/explore.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Sidebar/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Sidebar/library.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Sidebar/originals.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Sidebar/subscriptions.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/Icons/Sidebar/youtube-music.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtube Clone/sidebar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 11/lesson11.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 11/lesson11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/Icons/Hamburger_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/Icons/YouTube_Logo_(2013-2017).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/Icons/bell-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/Icons/hamburger-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/Icons/microphone-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/Icons/search-line-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/Icons/videocamera_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/Icons/youtube-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube Clone/general.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Youtube Clone/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube Clone/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube Clone/youtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube Clone/youtube.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +45,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyCourseProgress/Lesson 13",
+    "last_opened_file_path": "D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyCourseProgress/Lesson 14",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -57,14 +80,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 14" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 13" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 11" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Youtube Clone\Icons" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 12" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 13" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Youtube Clone" />
+      <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 13" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 7\Thumbnails" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 4" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyCourseProgress\Lesson 1 - 3" />
@@ -116,7 +140,7 @@
       <workItem from="1685623221263" duration="16493000" />
       <workItem from="1685650101951" duration="4505000" />
       <workItem from="1685654685173" duration="37000" />
-      <workItem from="1685710934320" duration="5405000" />
+      <workItem from="1685710934320" duration="14138000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 4">
       <created>1685369308207</created>
@@ -202,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685654616818</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Lesson 13">
+      <created>1685717596017</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685717596017</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +251,7 @@
     <MESSAGE value="Lesson 11" />
     <MESSAGE value="Lesson 12" />
     <MESSAGE value="YouTube project search bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="YouTube project search bar" />
+    <MESSAGE value="Lesson 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 13" />
   </component>
 </project>

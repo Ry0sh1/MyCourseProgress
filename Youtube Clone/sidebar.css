@@ -1,0 +1,28 @@
+.youtube-sidebar{
+    position: fixed;
+    left: 0;
+    top: 56px;
+    bottom: 0;
+    width: 74px;
+    background-color: white;
+}
+.youtube-sidebar-icon{
+    width: 24px;
+    height: 24px;
+    border: none;
+    border-radius: 36px;
+    margin-top: 22px;
+    margin-bottom: 0;
+}
+.youtube-sidebar-div > p{
+    margin-top: 4px;
+    font-size: 10px;
+    font-family: Roboto, Arial, serif;
+}
+.youtube-sidebar-div{
+    margin-left: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

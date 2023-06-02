@@ -1,0 +1,31 @@
+body{
+    padding: 60px 0 100000px 60px;
+}
+.lesson14-div1, .lesson14-div2{
+    width: 200px;
+    height: 200px;
+}
+.lesson14-div1{
+    background-color: lightblue;
+    position: static;
+}
+.lesson14-div2{
+    background-color: lightpink;
+}
+.lesson14-header{
+    background-color: black;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+}
+.lesson14-sidebar{
+    position: fixed;
+    top: 60px;
+    left: 0;
+    width: 60px;
+    bottom: 0;
+    background-color: green;
+}
