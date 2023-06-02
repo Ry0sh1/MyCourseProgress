@@ -1,0 +1,85 @@
+.lesson13a{
+    display: flex;
+}
+.lesson13a-left{
+    background-color: lightpink;
+    width: 100px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lesson13a-right{
+    background-color: lightblue;
+    height: 60px;
+    width: 200px;
+}
+
+.lesson13b{
+    margin-top: 60px;
+    display: flex;
+    height: 60px;
+}
+.lesson13b-left{
+    background-color: lightpink;
+    width: 100px;
+}
+.lesson13b-right{
+    background-color: lightblue;
+    width: 200px;
+}
+.lesson13b-right-row2{
+    justify-content: space-between;
+    display: flex;
+}
+
+p{
+    font-family: Arial, serif;
+    margin: 0;
+}
+.lesson13c{
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.4);
+    padding: 6px 16px;
+    margin-top: 60px;
+    width: 400px;
+}
+.lesson13c-bottom{
+    display: flex;
+    align-items: center;
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+.lesson13c-profile{
+    width: 64px;
+    height: 64px;
+    border: none;
+    border-radius: 64px;
+    object-fit: contain;
+}
+.lesson13c-message-header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0;
+    align-items: center;
+}
+.lesson13c-header{
+    font-weight: bold;
+    font-size: 18px;
+}
+.lesson13c-time{
+    color: rgba(0,0,0,0.6);
+    font-weight: bold;
+    font-size: 14px;
+}
+.lesson13c-subheader{
+    font-weight: bold;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.lesson13c-inbox{
+    color: rgba(0,0,0,0.6);
+    font-weight: bold;
+    margin-top: 6px;
+}

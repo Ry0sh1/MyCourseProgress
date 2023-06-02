@@ -26,6 +26,9 @@
     height: 22px;
     margin: 2px 4px 0 8px;
 }
+.search-bar::placeholder{
+    font-family: Roboto, Arial, serif;
+}
 .youtube-microphone{
     width: 24px;
     height: 24px;
